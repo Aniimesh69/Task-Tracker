@@ -7,11 +7,16 @@
   {
     "id": 1731915605594,
     "task": "Go to Gym",
-    "done": false
+    "done": true
   },
   {
     "id": 1731915631465,
     "task": "Go for Run",
+    "done": true
+  },
+  {
+    "id": 1732092238864,
+    "task": "Check your email",
     "done": true
   }
 ]
