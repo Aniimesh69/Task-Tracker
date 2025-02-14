@@ -1,9 +1,3 @@
-**CLI Based Todo List**
+#**Task Tracker**
 
-Key Features
-1. Add Todo
-2. Delete Todo
-3. Mark a todo as done
-4. Display all todos
-
-Storing all todos in a JSON file
+Task tracker is a project used to track and manage your tasks. In this task, I have build a simple command line interface (CLI) to track what I need to do, what I have done, and what I am currently working on. .
