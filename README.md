@@ -25,3 +25,11 @@ Each task should have the following properties:
 - status: The status of the task (todo, in-progress, done)
 - createdAt: The date and time when the task was created
 - updatedAt: The date and time when the task was last updated
+
+## Commands
+- Add Task: node task-tracker add "Task description"
+- List All Task: node task-tracker list
+- List All Task by Status: node task-tracker list <status>
+- Update Task: node task-tracker update <task_id> <new_status>
+- Delete Task: node task-tracker delete <task_id>
+- View a Single Task(by ID): node task-tracker view <task_id>
