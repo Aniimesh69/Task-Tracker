@@ -38,4 +38,5 @@ Each task should have the following properties:
 https://roadmap.sh/projects/task-tracker
 
 ## Live Demo 
-[`Task Tracker`](https://aniimeshs.github.io/Animesh-To-Do-List.github.io/)
+[`Task Tracker 1.0`](https://aniimeshs.github.io/Animesh-To-Do-List.github.io/)
+[`Task Tracker 2.0`](https://aniimeshs.github.io/Todo-List/)
